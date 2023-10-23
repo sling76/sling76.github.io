@@ -1,0 +1,101 @@
+.ntua_food {
+  background-color: #474747;
+  padding: 2px;
+}
+.ntua_food ul {
+  padding-left: 120px;
+  padding-right: 100px;
+}
+.ntua_food li {
+  color: #ffffff;
+  padding-left: 5px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.ntua_food_li_space {
+  margin-left: 25px;
+}
+.right_icon {
+  float: right;
+  padding-top: 9.64px;
+  padding-right: 20px;
+}
+.ntua_food_second {
+  background-color: #fdf3f3;
+  padding: 20px;
+}
+.ntua_food_second a {
+  padding-left: 100px;
+  text-decoration: none;
+  color: #2c2f24;
+  vertical-align: middle;
+}
+.ntua_food_second ul {
+  display: inline-block;
+  vertical-align: top;
+  padding-left: 554px;
+  font-size: 20px;
+}
+.ntua_food_second li {
+  display: inline-block;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.home_button {
+  border-radius: 34px;
+  background-color: #dbdfd0;
+  border-color: #ffffff;
+  font-size: 20px;
+}
+.time_button {
+  background-color: #fdf3f3;
+  border-radius: 118px;
+  border-width: 1.5px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.time_button_li {
+  padding-left: 400px !important;
+}
+.cook {
+  position: absolute;
+  top: 356px;
+  left: 467px;
+  width: 667px;
+  height: 96px;
+  padding-left: 500px;
+}
+.big {
+  font-size: 100px;
+}
+.small {
+  font-size: 20px;
+  padding-left: 85px;
+}
+.two button {
+  border-radius: 118px;
+  font-size: 16px;
+}
+.fast {
+  width: 128px;
+  height: 64px;
+  background-color: #AD343E(0, 52, 111);
+  text-align: center;
+  position: absolute;
+  top: 720px;
+  left: 1020px;
+  color: #ffffff;
+  background-color: #ad343e;
+  border-color: #ffffff;
+}
+.see {
+  width: 128px;
+  height: 64px;
+  background-color: #AD343E(0, 52, 111);
+  text-align: center;
+  position: absolute;
+  top: 720px;
+  left: 1165px;
+  font-weight: bold;
+}
